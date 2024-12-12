@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ernest GitHub stats]((https://github-readme-stats.vercel.app/api?username=ernest-salas-bauza&show_icons=true&theme=dark))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernest-salas-bauza&show_icons=true&theme=dark)
 
 ---
 

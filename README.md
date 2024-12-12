@@ -6,9 +6,16 @@
 
 ## 🛠️ Technologies & Tools
 - 💻 Languages: PHP, JavaScript, SQL
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+
 - 🌐 Frontend: HTML, CSS, Tailwind, Bootstrap
-- 📦 Backend: Laravel, OcotberCMS
+- 📦 Backend: Laravel, OctoberCMS
 - 🛠️ Tools: Docker, Git, Postman
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
 

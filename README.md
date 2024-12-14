@@ -5,10 +5,10 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- 💻 Languages: PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat), JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat), SQL ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
-- 🌐 Frontend: HTML ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat), CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat), Tailwind ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat), Bootstrap ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-- 📦 Backend: Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat), OctoberCMS ![OctoberCMS](https://img.shields.io/badge/-OctoberCMS-FF5500?logo=octobercms&logoColor=white&style=flat)
-- 🛠️ Tools: Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat), Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), Postman ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+- 💻 Languages: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat), ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+- 🌐 Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat), ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+- 📦 Backend: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat), ![OctoberCMS](https://img.shields.io/badge/-OctoberCMS-FF5500?logo=octobercms&logoColor=white&style=flat)
+- 🛠️ Tools: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat), ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat), ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ---
 

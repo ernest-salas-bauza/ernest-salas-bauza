@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Featured Projectsç
+## 🚀 Featured Projects
 - [Events Management App](https://github.com/ernest-salas-bauza/EventsManagementApp): Events Management application
 - [Book Reviews](https://github.com/ernest-salas-bauza/BookReviews): Book Reviews web application
 - [Task List](https://github.com/ernest-salas-bauza/TaskList): This is a simple Task List application.
